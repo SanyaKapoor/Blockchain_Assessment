@@ -1,0 +1,110 @@
+Test cases
+
+1. Test name: Creating an order
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to create a new order that accepts a numerical quantity of T-Shirts.
+
+Desired outcome: I should be able to verify on the Remix IDE that my new order has been
+created and Quantity has been set to the number I mentioned.
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+2. Test name: Check the quantity of the t shirt
+
+Test Description: Quantity of T-Shirts must be an integer value.
+
+Desired Outcome: I should be able to verify on the Remix IDE that my new order has been created with the numeric quantity value.
+
+Actual Outcome: On testing, I validated the actual outcome matches the desired outcome.
+
+Result: Pass
+
+3. Test name: Order acceptance or rejection
+
+Test Description: Order can be accepted or rejected based on the input of the seller.
+
+Desired Outcome: I should be able to verify on the Remix IDE that after accepting the order it should show the status to me as well as to the buyer either as accepted or rejected.
+
+Actual Outcome: On testing, I validated the actual outcome matches the desired outcome.
+
+Result: Pass
+
+4.Test name: Cost communication
+
+Test Description: Cost should be calculated by the quantity entered by the user.
+
+Desired Outcome: Buyer should get the cost of the t-shirts he/she wants to order according to the quantity entered.
+Actual Outcome: On testing, I validated the actual outcome matches the desired outcome.
+
+
+Result : Pass 
+
+
+5. Test name: Buyer accepting the order or rejecting the order based on the cost communication
+
+Test Description: After seeing the price, buyers have the option to choose whether he/she wants to buy at that price or not.
+
+Desired outcome : Accepted or Rejected the order, and the status is also showing the same as what and when updated by the buyer.
+
+Actual Outcome: On testing, I validated the actual outcome matches the desired outcome.
+
+Result : Pass
+
+Test case document
+
+6. Test name: Create new order
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to create a new order that accepts a numerical quantity of T-Shirts.
+
+Desired outcome: I should be able to verify on the Remix IDE that my new order has been
+created and the status has been set to “New” and Quantity has been set to the number I
+supplied.
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+7. Test name: Check the quantity of the t shirt
+
+Test Description: Quantity of T-Shirts must be an integer value.
+
+Desired Outcome: I should be able to verify on the Remix IDE that my new order has been created with the numeric quantity value.
+
+Actual Outcome: On testing, I validated the actual outcome matches the desired outcome.
+
+Result: Pass
+
+8. Test name: Order acceptance or rejection
+
+Test Description: Order can be accepted or rejected based on the input of the seller.
+
+Desired Outcome: I should be able to verify on the Remix IDE that after accepting the order it should show the status to me as well as to the buyer either as accepted or rejected.
+
+Actual Outcome: On testing, I validated the actual outcome matches the desired outcome.
+
+Result: Pass
+
+9.Test name: Cost communication
+
+Test Description: Cost should be calculated by the quantity entered by the user.
+
+Desired Outcome: Buyer should get the cost of the t-shirts he/she wants to order according to the quantity entered.
+Actual Outcome: On testing, I validated the actual outcome matches the desired outcome.
+
+
+Result : Pass 
+
+
+10. Test name: Buyer accepting the order or rejecting the order based on the cost communication
+
+Test Description: After seeing the price, buyers have the option to choose whether he/she wants to buy at that price or not.
+
+Desired outcome : Accepted or Rejected the order, and the status is also showing the same as what and when updated by the buyer.
+
+Actual Outcome: On testing, I validated the actual outcome matches the desired outcome.
+
+Result : Pass
